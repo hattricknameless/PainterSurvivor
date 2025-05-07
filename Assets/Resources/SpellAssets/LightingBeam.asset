@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e7c4c9ceef79044fb340039a1f6375a, type: 3}
+  m_Name: LightingBeam
+  m_EditorClassIdentifier: 
+  spellName: LightingBeam
+  symbolName: Lightning
+  type: 1
+  damage: 20
+  cost: 0
+  castRange: 40
+  damageRange: 0
+  knockbackStrength: 0
+  areaDamage: 0
+  tickDamage: 0
+  coneAngle: 0
+  freezeDuration: 0
+  projectile: {fileID: 1685726630235996547, guid: 507bd2b4b9186b74083139b2e34d0998, type: 3}
+  isActivated: 0
